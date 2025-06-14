@@ -1,533 +1,70 @@
-/* Desktop - 1 */
-
-position: relative;
-width: 1440px;
-height: 4000px;
-
-background: #100425;
-/* Ellipse 1 */
-position: absolute;
-width: 607px;
-height: 652px;
-left: 808px;
-top: 124px;
-
-background: linear-gradient(123.93deg, #DC00D3 17.81%, rgba(0, 204, 255, 0.686275) 76.16%);
-filter: blur(175px);
-medium-shot-man-wearing-vr-glasses-1 
-position: absolute;
-width: 655.63px;
-height: 526px;
-left: 784px;
-top: 187px;
-
-background: url(medium-shot-man-wearing-vr-glasses-1);
-/* Line 1 */
-position: absolute;
-width: 656px;
-height: 0px;
-left: 784px;
-top: 124.14px;
-
-border: 1px solid #F580F1;
-transform: rotate(-0.19deg);
-/* Line 2 */
-position: absolute;
-width: 656px;
-height: 0px;
-left: 784px;
-top: 58px;
-
-border: 1px solid #F580F1;
-transform: rotate(0.09deg);
-/* Line 3 */
-position: absolute;
-width: 656.02px;
-height: 0px;
-left: 784px;
-top: 780.93px;
-
-border: 1px solid #F580F1;
-transform: rotate(-0.43deg);
-/* Line 4 */
-position: absolute;
-width: 656.02px;
-height: 0px;
-left: 784px;
-top: 849px;
-
-border: 1px solid #F580F1;
-transform: rotate(-0.44deg);
-/* Line 5 */
-position: absolute;
-width: 194px;
-height: 0px;
-left: 827px;
-top: 713px;
-
-border: 1px solid #F580F1;
-transform: rotate(89.7deg);
-/* Line 6 */
-position: absolute;
-width: 194px;
-height: 0px;
-left: 897px;
-top: 713px;
-
-border: 1px solid #F580F1;
-transform: rotate(90deg);
-/* Line 7 */
-position: absolute;
-width: 192.04px;
-height: 0px;
-left: 962.5px;
-top: 714.99px;
-
-border: 1px solid #F580F1;
-transform: rotate(88.96deg);
-/* Line 8 */
-position: absolute;
-width: 194.02px;
-height: 0px;
-left: 1032px;
-top: 713px;
-
-border: 1px solid #F580F1;
-transform: rotate(89.11deg);
-/* Line 9 */
-position: absolute;
-width: 194.02px;
-height: 0px;
-left: 1101px;
-top: 713px;
-
-border: 1px solid #F580F1;
-transform: rotate(89.1deg);
-/* Line 10 */
-position: absolute;
-width: 194.02px;
-height: 0px;
-left: 1170px;
-top: 713px;
-
-border: 1px solid #F580F1;
-transform: rotate(89.11deg);
-/* Line 11 */
-position: absolute;
-width: 192px;
-height: 0px;
-left: 1242px;
-top: 715px;
-
-border: 1px solid #F580F1;
-transform: rotate(90deg);
-/* Line 12 */
-position: absolute;
-width: 192px;
-height: 0px;
-left: 1311px;
-top: 713px;
-
-border: 1px solid #F580F1;
-transform: rotate(90deg);
-/* Line 13 */
-position: absolute;
-width: 192.02px;
-height: 0px;
-left: 1378.5px;
-top: 714.99px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.45deg);
-/* Line 14 */
-position: absolute;
-width: 185px;
-height: 0px;
-left: 1377px;
-top: 2px;
-
-border: 1px solid #F580F1;
-transform: rotate(90deg);
-/* Line 15 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 1311px;
-top: 2px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* Line 16 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 1242px;
-top: 2px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* Line 17 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 1173px;
-top: 2px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* Line 18 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 1104px;
-top: 0px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* Line 19 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 1035px;
-top: 0px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* Line 20 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 966px;
-top: 2px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* Line 21 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 897px;
-top: 2px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* Line 22 */
-position: absolute;
-width: 185.02px;
-height: 0px;
-left: 828px;
-top: 2px;
-
-border: 1px solid #F580F1;
-transform: rotate(90.93deg);
-/* HOME */
-position: absolute;
-width: 71px;
-height: 34px;
-left: 78px;
-top: 59px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
-/* PRODUCT */
-position: absolute;
-width: 108px;
-height: 26px;
-left: 191px;
-top: 59px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
-/* SERVICES */
-position: absolute;
-width: 98px;
-height: 20px;
-left: 341px;
-top: 59px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
-/* CONTACT */
-position: absolute;
-width: 116px;
-height: 17px;
-left: 481px;
-top: 59px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 20px;
-line-height: 24px;
-
-color: #FFFFFF;
-The future of virtual reality (VR) is incredibly promising, with advancements in technology shaping how we interact, learn, and experience the digital world. Hyper-Realistic Immersion Improved hardware, such as higher resolution displays and more powerful GPUs, will make VR more realistic. Haptic feedback suits and gloves will allow users to feel virtual objects. Eye-tracking and facial recognition will enhance interaction in virtual spaces.
-position: absolute;
-width: 617px;
-height: 389px;
-left: 78px;
-top: 282px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-background: linear-gradient(98.53deg, #0CFAF5 0.28%, #DC00D3 82.3%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent;
-/* VIRTUAL REALITY */
-position: absolute;
-width: 555px;
-height: 116px;
-left: 94px;
-top: 175px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 700;
-font-size: 55px;
-line-height: 67px;
-
-color: #FFFFFF;
-/* Rectangle 1 */
-position: absolute;
-width: 150px;
-height: 60px;
-left: 70px;
-top: 712px;
-
-background: linear-gradient(90deg, rgba(12, 250, 245, 0.960784) 0%, #DC00D3 100%);
-border-radius: 40px;
-/* See more */
-position: absolute;
-width: 119px;
-height: 27px;
-left: 94px;
-top: 728px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-color: #FFFFFF;
-/* Line 23 */
-position: absolute;
-width: 1440px;
-height: 0px;
-left: 0px;
-top: 910px;
-
-border: 1px solid #F580F1;
-transform: rotate(-0.12deg);
-/* Rectangle 2 */
-box-sizing: border-box;
-
-position: absolute;
-width: 370px;
-height: 370px;
-left: 70px;
-top: 1041px;
-
-background: #100425;
-border-radius: 50px;
-/* Rectangle 3 */
-box-sizing: border-box;
-
-position: absolute;
-width: 370px;
-height: 370px;
-left: 527px;
-top: 1044px;
-
-background: #100425;
-border-radius: 50px;
-/* Rectangle 4 */
-box-sizing: border-box;
-
-position: absolute;
-width: 370px;
-height: 370px;
-left: 995px;
-top: 1040px;
-
-background: #100425;
-border-radius: 50px;
-/* AI-Powered Virtual Worlds Artificial intelligence will create more dynamic and responsive virtual environments. AI-driven NPCs (non-playable characters) will make VR interactions feel more lifelike. */
-position: absolute;
-width: 335px;
-height: 270px;
-left: 94px;
-top: 1090px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-background: linear-gradient(180deg, #DC00D3 0%, #2AA9DF 100%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent;
-/* VR in Education & Training Medical students will perform surgeries in a risk-free virtual environment. Engineers and architects will design and test structures in VR. */
-position: absolute;
-width: 305px;
-height: 279px;
-left: 567px;
-top: 1090px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-background: linear-gradient(179.88deg, #DC00D3 0.1%, #2AA9DF 95.25%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent;
-/* The Rise of the Metaverse Social VR platforms will become the new internet, enabling fully immersive digital economies. People will work, socialize, and even attend concerts in shared virtual spaces. */
-position: absolute;
-width: 318px;
-height: 259px;
-left: 1024px;
-top: 1085px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-background: linear-gradient(180deg, #DC00D3 0%, #2AA9DF 109.65%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent;
-/* 1723112092626 1 */
-position: absolute;
-width: 789.33px;
-height: 444px;
-left: 0px;
-top: 1761px;
-
-background: url(1723112092626);
-/* VR and Healthcare VR therapy for mental health, including anxiety and PTSD treatment, will become mainstream. Pain management and physical rehabilitation will use VR to help patients recover. Wireless & Standalone VR VR headsets will become lighter, more powerful, and completely wireless. Cloud-based VR will eliminate the need for expensive hardware, making it accessible to more people. Augmented Reality (AR) & VR Integration AR and VR will merge, creating Mixed Reality (MR) experiences that blend digital and physical worlds. Wearable AR/VR glasses will replace traditional screens. */
-position: absolute;
-width: 559px;
-height: 680px;
-left: 851px;
-top: 1616px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 30px;
-line-height: 36px;
-
-background: linear-gradient(97.44deg, #2AA9DF 0%, #DC00D3 43.21%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent;
-/* Rectangle 5 */
-box-sizing: border-box;
-
-position: absolute;
-width: 1141px;
-height: 494px;
-left: 139px;
-top: 2525px;
-
-background: #100425;
-border-radius: 50px;
-/* VR in Entertainment & Gaming Fully interactive story-based VR movies will change how we consume entertainment. Multiplayer VR gaming will become more immersive with realistic avatars and real-world physics. Brain-Computer Interfaces (BCI) & VR Neural interfaces, like Elon Musk's Neuralink, may allow users to control VR experiences with their minds. VR may help people with disabilities interact with the digital world in entirely new ways. Ethical & Privacy Concerns As VR becomes more advanced, issues like digital addiction, privacy breaches, and misinformation will need to be addressed. */
-position: absolute;
-width: 987px;
-height: 393px;
-left: 194px;
-top: 2556px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-background: linear-gradient(91.54deg, #2AA9DF 0%, #DC00D3 33.8%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent;
-/* MultiverseConcept 1 */
-position: absolute;
-width: 740px;
-height: 418px;
-left: 700px;
-top: 3296px;
-
-background: url(MultiverseConcept);
-/* The future of VR is limitless, with applications in almost every field, from gaming and entertainment to medicine and education. The real question is: Are we ready for a world where reality and virtual experiences merge seamlessly? */
-position: absolute;
-width: 464px;
-height: 312px;
-left: 84px;
-top: 3395px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-background: linear-gradient(108.19deg, #2AA9DF 0.79%, #DC00D3 80.97%);
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-background-clip: text;
-text-fill-color: transparent;
-/* Line 24 */
-position: absolute;
-width: 1440.01px;
-height: 0px;
-left: 0px;
-top: 3880px;
-
-border: 1px solid #F580F1;
-transform: rotate(0.16deg);
-/* © 2025 IT.UA */
-position: absolute;
-width: 187px;
-height: 42px;
-left: 626px;
-top: 3930px;
-
-font-family: 'Inter';
-font-style: normal;
-font-weight: 500;
-font-size: 24px;
-line-height: 29px;
-
-color: #A35DED;
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #12091f;
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background: #1a1030;
+  padding: 1rem 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  gap: 2rem;
+}
+
+.header-text {
+  max-width: 50%;
+}
+
+.header-text .blue { color: #00ffff; }
+.header-text .green { color: #00ff88; }
+
+button {
+  background: linear-gradient(to right, #00ffff, #ff00ff);
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.cards article {
+  border: 2px solid #ff00ff;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 25%;
+  background: #1f0933;
+}
+
+.vr-health, .future-vr {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  background: #1a1030;
+  color: #aaa;
+}
