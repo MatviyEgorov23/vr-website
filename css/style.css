@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  background: #12091f;
+  color: #fff;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  background: #1a1030;
+  padding: 1rem 0;
+}
+
+nav a {
+  color: #fff;
+  text-decoration: none;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  padding: 2rem;
+  gap: 2rem;
+}
+
+.header-text {
+  max-width: 50%;
+}
+
+.header-text .blue { color: #00ffff; }
+.header-text .green { color: #00ff88; }
+
+button {
+  background: linear-gradient(to right, #00ffff, #ff00ff);
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1.5rem;
+  border-radius: 20px;
+  cursor: pointer;
+}
+
+.cards {
+  display: flex;
+  justify-content: space-around;
+  padding: 2rem;
+}
+
+.cards article {
+  border: 2px solid #ff00ff;
+  padding: 1rem;
+  border-radius: 10px;
+  width: 25%;
+  background: #1f0933;
+}
+
+.vr-health, .future-vr {
+  display: flex;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem;
+  background: #1a1030;
+  color: #aaa;
+}
